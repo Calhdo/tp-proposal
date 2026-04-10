@@ -26,7 +26,7 @@ Regularidad:
 |:-|:-|
 |CRUD simple|1. CRUD Usuario<br>2. CRUD Rutina<br>3. CRUD Ejercicio<br>4. CRUD Membresía|
 |CRUD dependiente|1. CRUD Precio {depende de} CRUD Membresía<br>2. CRUD Asistencia {depende de} CRUD Usuario|
-|Listado<br>+<br>detalle| 1. Listado de habitaciones filtrado por tipo de habitación, muestra nro y tipo de habitación => detalle CRUD Habitacion<br> 2. Listado de reservas filtrado por rango de fecha, muestra nro de habitación, fecha inicio y fin estadía, estado y nombre del cliente => detalle muestra datos completos de la reserva y del cliente|
+|Listado<br>+<br>detalle| 1. Listado de registro de asistencia => detalle muestra todas las asistencias del cliente<br> 2. Listado de ejercicios que puede ver el adminisitrador para agregar a rutinas => detalle muestra una lista de ejercicios disponibles al administrador para que pueda armar rutinas personalizadas|
 |CUU/Epic|1. Obtener listado de rutinas de un cliente<br>2. Adquirir una membresía como cliente|
 
 
