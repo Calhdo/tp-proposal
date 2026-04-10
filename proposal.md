@@ -12,7 +12,7 @@
 
 ## Tema
 ### Descripción
-
+* El modelo representa un sistema de gestión de gimnasio en el cual se administran usuarios, clientes, administradores,asistencias, membresías, rutinas, ejercicios y clases.
 
 ### Modelo
 ![imagen del modelo](ModeloE-R.png)
