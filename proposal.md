@@ -12,7 +12,7 @@
 
 ## Tema
 ### Descripción
-* El modelo representa un sistema de gestión de gimnasio en el cual se administran usuarios, clientes, administradores,asistencias, membresías, rutinas, ejercicios y clases.
+Es un sistema de gestión de un gimnasio. El sistema admite dos tipos de usuarios, clientes y administradores, los clientes pueden tener una membresía, registrar asistencia, inscribirse a clases y seguir una o varias rutinas. Por otro lado, el Administrador es quien gestiona el contenido del sistema, asignando o administrando rutinas, ejercicios y/o clases.
 
 ### Modelo
 ![imagen del modelo](ModeloE-R.png)
