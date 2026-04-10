@@ -21,7 +21,6 @@
 
 ### Alcance Mínimo
 
-Regularidad:
 |Req|Detalle|
 |:-|:-|
 |CRUD simple|1. CRUD Usuario<br>2. CRUD Rutina<br>3. CRUD Ejercicio<br>4. CRUD Membresía|
@@ -29,8 +28,8 @@ Regularidad:
 |Listado<br>+<br>detalle| 1. Listado de registro de asistencia => detalle muestra todas las asistencias del cliente<br> 2. Listado de ejercicios que puede ver el adminisitrador para agregar a rutinas => detalle muestra una lista de ejercicios disponibles al administrador para que pueda armar rutinas personalizadas|
 |CUU/Epic|1. Obtener listado de rutinas de un cliente<br>2. Adquirir una membresía como cliente|
 
+### Alcance Aprobación
 
-Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Usuario<br>2. CRUD Rutina<br>3. CRUD Ejercicio<br>4. CRUD Membresía<br>5. CRUD Clases<br>6. CRUD Precio<br>7. CRUD Asistencia|
@@ -38,8 +37,6 @@ Adicionales para Aprobación
 
 
 ### Alcance Adicional Voluntario
-
-*Nota*: El Alcance Adicional Voluntario es opcional, pero ayuda a que la funcionalidad del sistema esté completa y será considerado en la nota en función de su complejidad y esfuerzo.
 
 |Req|Detalle|
 |:-|:-|
