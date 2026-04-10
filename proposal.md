@@ -24,17 +24,17 @@
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Tipo Habitacion<br>2. CRUD Servicio<br>3. CRUD Localidad|
-|CRUD dependiente|1. CRUD Habitación {depende de} CRUD Tipo Habitacion<br>2. CRUD Cliente {depende de} CRUD Localidad|
+|CRUD simple|1. CRUD Usuario<br>2. CRUD Rutina<br>3. CRUD Ejercicio<br>4. CRUD Membresía|
+|CRUD dependiente|1. CRUD Precio {depende de} CRUD Membresía<br>2. CRUD Asistencia {depende de} CRUD Usuario|
 |Listado<br>+<br>detalle| 1. Listado de habitaciones filtrado por tipo de habitación, muestra nro y tipo de habitación => detalle CRUD Habitacion<br> 2. Listado de reservas filtrado por rango de fecha, muestra nro de habitación, fecha inicio y fin estadía, estado y nombre del cliente => detalle muestra datos completos de la reserva y del cliente|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva|
+|CUU/Epic|1. Obtener listado de rutinas de un cliente<br>2. Adquirir una membresía como cliente|
 
 
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Tipo Habitacion<br>2. CRUD Servicio<br>3. CRUD Localidad<br>4. CRUD Provincia<br>5. CRUD Habitación<br>6. CRUD Empleado<br>7. CRUD Cliente|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva<br>3. Realizar el check-out y facturación de estadía y servicios|
+|CRUD |1. CRUD Usuario<br>2. CRUD Rutina<br>3. CRUD Ejercicio<br>4. CRUD Membresía<br>5. CRUD Clases<br>6. CRUD Precio<br>7. CRUD Asistencia|
+|CUU/Epic|1. Obtener listado de rutinas de un cliente<br>2. Adquirir una membresía como cliente<br>3. Gestionar rutina como adminisitrador<br>4. Inscribirse a una clase como cliente|
 
 
 ### Alcance Adicional Voluntario
