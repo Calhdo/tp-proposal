@@ -15,7 +15,7 @@
 
 
 ### Modelo
-![imagen del modelo]()
+![imagen del modelo](ModeloE-R.png)
 
 ## Alcance Funcional 
 
