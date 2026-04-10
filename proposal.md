@@ -34,7 +34,7 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Usuario<br>2. CRUD Rutina<br>3. CRUD Ejercicio<br>4. CRUD Membresía<br>5. CRUD Clases<br>6. CRUD Precio<br>7. CRUD Asistencia|
-|CUU/Epic|1. Obtener listado de rutinas de un cliente<br>2. Adquirir una membresía como cliente<br>3. Gestionar rutina como adminisitrador<br>4. Inscribirse a una clase como cliente|
+|CUU/Epic|1. Obtener listado de rutinas de un cliente<br>2. Adquirir una membresía como cliente<br>3. Gestionar rutina como adminisitrador<br>4. Inscribirse a una clase|
 
 
 ### Alcance Adicional Voluntario
@@ -43,7 +43,7 @@ Adicionales para Aprobación
 
 |Req|Detalle|
 |:-|:-|
-|Listados |1. Estadía del día filtrado por fecha muestra, cliente, habitaciones y estado <br>2. Reservas filtradas por cliente muestra datos del cliente y de cada reserve fechas, estado cantidad de habitaciones y huespedes|
-|CUU/Epic|1. Consumir servicios<br>2. Cancelación de reserva|
-|Otros|1. Envío de recordatorio de reserva por email|
+|Listados |1. Historial de precios de cada plan de membresía<br>2. Historial de membresías|
+|CUU/Epic|1. Darse de baja de una clase<br>2. Gestionar clase como administrador|
+|Otros|1. Envío de advertencia de vencimiento membresía por email|
 
