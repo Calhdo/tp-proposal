@@ -32,7 +32,7 @@ Es un sistema de gestión de un gimnasio. El sistema admite dos tipos de usuario
 
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Usuario<br>2. CRUD Rutina<br>3. CRUD Ejercicio<br>4. CRUD Membresía<br>5. CRUD Clases<br>6. CRUD Precio<br>7. CRUD Asistencia|
+|CRUD |1. CRUD Usuario<br>2. CRUD Rutina<br>3. CRUD Ejercicio<br>4. CRUD TipoMembresía<br>5. CRUD Clases<br>6. CRUD Precio<br>7. CRUD Asistencia|
 |CUU/Epic|1. Obtener listado de rutinas de un cliente<br>2. Adquirir una membresía como cliente<br>3. Gestionar rutina como adminisitrador<br>4. Inscribirse a una clase|
 
 
